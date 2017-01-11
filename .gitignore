@@ -15,3 +15,10 @@ project/plugins/project/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+
+bin/
+.cache-main
+Image Fun/res/output/**
+!Image Fun/res/output/**/
+!Image Fun/res/output/digits/digits.csv
+!Image Fun/res/output/ellie_squares/0_ellie.png
