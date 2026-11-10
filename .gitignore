@@ -18,6 +18,7 @@ project/plugins/project/
 
 bin/
 .cache-main
+.bsp/
 Image Fun/res/output/**
 !Image Fun/res/output/**/
 !Image Fun/res/output/digits/digits.csv
